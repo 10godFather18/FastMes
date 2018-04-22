@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_vk_share_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout-v16\\vk_share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_vk_captcha_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout\\vk_captcha_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_vk_open_auth_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout\\vk_open_auth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vk_gray_transparent_shape.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vk_gray_transparent_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vk_share_send_button_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vk_share_send_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_vk_share_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout\\vk_share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_vk_share_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout\\vk_share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_vk_captcha_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout\\vk_captcha_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vk_clear_shape.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vk_clear_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_bg_toolbar_shadow_dark.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\bg_toolbar_shadow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_vk_open_auth_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout\\vk_open_auth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_ic_ab_app.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_ab_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vk_clear_shape.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vk_clear_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_vk_share_dialog.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\layout-v16\\vk_share_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_ic_close_white_24dp.png.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Reservation\\5\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vk_gray_transparent_shape.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vk_gray_transparent_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_vk_share_send_button_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\Desktop\\FastMes\\vksdk_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vk_share_send_button_background.xml"
+    }
+]
