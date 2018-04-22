@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":vksdk_library"><source path="C:\Users\Lenovo\Desktop\FastMes\vksdk_library\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Lenovo\Desktop\FastMes\app\src\main\assets"/><source path="C:\Users\Lenovo\Desktop\FastMes\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Lenovo\Desktop\FastMes\app\src\debug\assets"/></dataSet></merger>

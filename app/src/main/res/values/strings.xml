@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FastMes</string>
+    <integer name="com_vk_sdk_AppId">6402718</integer>
+</resources>

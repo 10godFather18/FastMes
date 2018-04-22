@@ -1,0 +1,4 @@
+#Wed Apr 11 19:06:44 GMT+06:00 2018
+base.0=C\:\\Users\\Lenovo\\Desktop\\FastMes\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
